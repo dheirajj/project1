@@ -1,2 +1,2 @@
 # project1
-Demo for first project
+Demo for first project.
